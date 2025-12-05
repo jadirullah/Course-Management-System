@@ -3,7 +3,7 @@
 ## Identitas
 
 **NIM :** \[1001250043\]\
-**Nama :** \[Jadirullah\]
+**Nama :** \[Jadirullah\]\
 **Kelas :** \[Eksekutif\]
 
 
