@@ -30,6 +30,7 @@ public class Main {
                 case 4 -> enrollUserToCourse();
                 case 5 -> showCourseParticipants();
                 case 6 -> addContentToCourse();
+                case 7 -> System.out.println("Salah Pilih Menu...");
                 case 0 -> System.out.println("Keluar...");
             }
         }
